@@ -10,8 +10,8 @@ sections:
   templates:
   - settings
 - type: directory
-  path: portfolio/works
-  label: Works
+  path: portfolio/vote
+  label: Vote
   create: all
   match: "**/*"
   templates:
