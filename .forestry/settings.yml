@@ -15,7 +15,7 @@ sections:
   create: all
   match: "**/*"
   templates:
-  - works
+  - home
 - type: directory
   path: portfolio/about
   label: About
