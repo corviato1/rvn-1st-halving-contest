@@ -1,33 +1,33 @@
 {
-    "title": "Acme",
-    "description": "Creative Agency",
-    "logo": "/upload/logo.svg",
-    "footer": "Ⓒ Acme",
-    "favicon": "favicon-32x32.png",
-    "navigation": [
-      {
-        "text": "Works",
-        "link": "/",
-        "position": "left",
-        "external": false
-      },
-      {
-        "text": "Instagram",
-        "link": "https://www.instagram.com/its.nwa",
-        "position": "left",
-        "external": true
-      },
-      {
-        "text": "Say hi!",
-        "link": "mailto:sayhi@mydomain.com",
-        "position": "right",
-        "external": true
-      },
-      {
-        "text": "Journal",
-        "link": "/journal/",
-        "position": "right",
-        "external": false
-      }
-    ]
-  }
+  "title": "rvn-halving-sticker-contest",
+  "description": "Creative Agency",
+  "logo": "/upload/favicon.ico",
+  "footer": "\"to the messengers who carry statements of truth\"",
+  "favicon": "/upload/favicon.ico",
+  "navigation": [
+    {
+      "text": "Works",
+      "link": "/",
+      "position": "left",
+      "external": false
+    },
+    {
+      "text": "Contribute to C3Media",
+      "link": "https://cointr.ee/c3media",
+      "position": "left",
+      "external": true
+    },
+    {
+      "text": "C3Media",
+      "link": "mailto:sayhi@mydomain.com",
+      "position": "right",
+      "external": true
+    },
+    {
+      "text": "About",
+      "link": "/journal/",
+      "position": "right",
+      "external": false
+    }
+  ]
+}
